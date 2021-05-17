@@ -1,0 +1,2 @@
+command		:	npm start
+lecture		:	https://www.youtube.com/watch?v=731Ur2HGRBY
